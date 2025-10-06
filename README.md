@@ -2,7 +2,7 @@
   "Detect_installed": [
     {
       "package": "com.google.android.youtube",
-      "status": false,
+      "status": true,
       "installed_error_message": "Error404"
     }
   ],
@@ -10,7 +10,7 @@
 
     {
       "package": "com.googlfe.android.youtube",
-      "status": false,
+      "status": true,
       "not_installed_error_message": "Stopped"
     }
   ]
